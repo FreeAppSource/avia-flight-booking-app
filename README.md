@@ -59,7 +59,7 @@ This app is based on the free **Avia Booking Concept** design by **Aleksey Bonda
 
 > UI design: "Avia Booking Concept" by Aleksey Bondarev (https://dribbble.com/shots/7817865-Choosing-and-buying-plane-tickets), downloaded from Sketch App Sources (https://www.sketchappsources.com/free-source/4574-avia-booking-ui-kit-sketch-freebie-resource.html).
 
-The original design source files are not included in this repository; get them from the links above. This app's **code** is released under the [MIT License](./LICENSE); the visual design remains the designer's.
+The original design source files are not included in this repository; get them from the links above. This app's **code** is released under the [MIT License](./LICENSE); the visual design remains the designer's (see [NOTICE](./NOTICE)).
 
 Photos, brand logos and avatars inside the design may belong to third parties and are not covered by the designer's permission.
 
