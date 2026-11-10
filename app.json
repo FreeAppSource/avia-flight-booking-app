@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Avia Flight Booking App",
+    "slug": "avia-flight-booking",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0E8388"
+      }
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "scheme": "aviaflightbooking"
+  }
+}
